@@ -11,7 +11,7 @@ body {
 }
 
 p {
-    color:blue;
+    color:green;
 }
 
 div {
@@ -20,9 +20,9 @@ div {
 
 .navbar li {
     list-style: none;
-    width: 200px;
+    width: 400px;
     margin: 0 auto;
-    padding: 10;
+    padding: 20;
     background-color: black;
     text-align: center;
     display: inline-block;
@@ -32,4 +32,10 @@ div {
 .navbar a {
     color:#crimson;
     text-decoration: none;
+}
+
+iframe {
+    width:75%;
+    height:75%;
+    border: dotted;
 }

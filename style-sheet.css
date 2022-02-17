@@ -1,3 +1,9 @@
+/* 
+    COMP 333: Software Engineering
+    Max Waslick
+*/
+
+
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC&display=swap');
 
 body {
@@ -8,13 +14,15 @@ p {
     color:blue;
 }
 
-.navbar ul {
+.navbar li {
     list-style: none;
-    width: 500px;
+    width: 200px;
     margin: 0 auto;
-    padding: 0;
+    padding: 10;
     background-color: black;
     text-align: center;
+    display: inline-block;
+    line-height: 40px;
 }
 
 .navbar a {

@@ -1,0 +1,22 @@
+.navbar ul {
+    /* 
+        Remove bullet points.
+    */
+    list-style: none;
+    width: 500px;
+    margin: 0 auto;
+    /* 
+        No padding.
+    */
+    padding: 0;
+    /* 
+        For navbars use background color that stands out.
+    */
+    background-color: black;
+    text-align: center;
+}
+
+.navbar a {
+    color:#crimson;
+    text-decoration: none;
+}

@@ -7,7 +7,7 @@
 @import url(''https://fonts.googleapis.com/css2?family=Gideon+Roman&display=swap'');
 
 body {
-    font-family: 'Noto Sans SC', sans-serif;
+    font-family: 'Gideon Roman', sans-serif;
 }
 
 p {
@@ -56,8 +56,8 @@ div {
 }
 
 iframe {
-    width:75%;
-    height:75%;
+    width:200%;
+    height:200%;
     border: solid;
     color: darkgreen;
 }

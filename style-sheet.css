@@ -4,7 +4,7 @@
 */
 
 
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC&display=swap');
+@import url(''https://fonts.googleapis.com/css2?family=Gideon+Roman&display=swap'');
 
 body {
     font-family: 'Noto Sans SC', sans-serif;
@@ -22,10 +22,18 @@ p {
     color:  deepskyblue;
 }
 
-.background-image-class {
-    background-image: url(https://cdn.pixabay.com/photo/2016/01/10/22/52/letters-1132703_1280.png); background-repeat: no-repeat;
-    color: white;
+#free-member {
+    color: darkslategray;
 }
+
+#premium {
+    color:  silver;
+}
+
+#extra-premium {
+    color:  goldenrod;
+}
+
 
 div {
     background-color: yellowgreen;

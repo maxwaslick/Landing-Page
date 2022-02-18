@@ -14,6 +14,19 @@ p {
     color:green;
 }
 
+#Membership-Options {
+    color:  rebeccapurple;
+}
+
+#List-of-Planned-Features {
+    color:  deepskyblue;
+}
+
+.background-image-class {
+    background-image: url(https://cdn.pixabay.com/photo/2016/01/10/22/52/letters-1132703_1280.png); background-repeat: no-repeat;
+    color: white;
+}
+
 div {
     background-color: yellowgreen;
 }
@@ -23,7 +36,7 @@ div {
     width: 400px;
     margin: 0 auto;
     padding: 20;
-    background-color: black;
+    background-color: lightblue;
     text-align: center;
     display: inline-block;
     line-height: 40px;
@@ -37,5 +50,6 @@ div {
 iframe {
     width:75%;
     height:75%;
-    border: dotted;
+    border: solid;
+    color: darkgreen;
 }
